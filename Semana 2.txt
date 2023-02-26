@@ -7,9 +7,9 @@ Lunes 20 de Febrero 2023.
 9-10: Libre
 10-12: Hacer Tarea de lab de informática II.
 12-13: Almorzar.
-13-14: Estudiar inglés.
-14-16: Clase de Lectoescritura.
-16-17: Volver a casa.
+13-14: **Inconveniente**
+14-16: **Inconveniente**
+16-17: Libre
 17-18: Estudiar Informática.
 18-19: Organizar la cocina.
 19-20: Comer.
@@ -34,7 +34,7 @@ Martes 21 de Febrero 2023.
 Miércoles 22 de Febrero 2023
 
 6-8: Bañarme organizarme y desayunar.
-8-10: Clase de Inglés II.
+8-10: **Inconveniente**
 10-11: Libre.
 11-13: Estudiar Álgebra lineal.
 13-14: Almorzar.
@@ -48,7 +48,7 @@ Jueves 23 de Febrero 2022.
 
 5-7: Bañarme, organizarme y desayunar.
 7-8: Llegando a la universidad. 
-8-10: Clase de informática II.
+8-10: **Inconveniente**
 10-12: Clase de Física Mecánica. 
 12-14: Clase de Álgebra lineal. 
 14-16: Clase de Calculo integral. 
@@ -62,25 +62,23 @@ Jueves 23 de Febrero 2022.
 Viernes 24 de Febrero 2023.
 
 5-7: Bañarme, organizarme y desayunar. 
-7-9: Cita y  medicamentos de mamá.
-9-10: Llegando a la Universidad.
-10-13: Laboratorio de Informatica II. 
+7-13: **Inconveniente**
 13-15: Almorzar y llegar a casa. 
 15-17: Libre. 
-17-19: Estudiar Calculo integral. 
+17-19: **Inconveniente**
 19-20: Comer. 
-20-22: Ver clase de Inglés II.
+20-22: **Cambio de planes**
 22-23: Usar celular y Leer. 
 23-8: Dormir.
 
 Sábado 25 de Febrero 2023.
 
 8-10: Bañarme, organizarme y desayunar.
-10-13: Hacer tareas o Estudiar Informática II.
+10-13: **Cambio de planes**
 13-14: Almorzar. 
-14-16: Ver clase de inglés del viernes.
+14-16: **Cambio de planes**
 16-17: Libre. 
-17-19: Estudiar Ingles. 
+17-19: **Inconveniente**
 19-20: Comer. 
 20-21: Organizar la cocina. 
 21-22: Libre. 
@@ -90,10 +88,23 @@ Sábado 25 de Febrero 2023.
 Domingo 26 de Febrero 2023.
 
 8-10: Bañarme, organizarme y desayunar.
-10-13: Hacer tareas o Estudiar Lectoescritura.
+10-13: Ver Clase de Lecto escritura.
 13-14: Almorzar. 
-14-17: Organizar casa. 
-17-19: Estudiar calculo integral. 
+14-16: Organizar casa. 
+16-19: Estudiar calculo integral. 
 19-20: Comer. 
 20-21: Usar celular y Leer. 
 21-6: Dormir.
+
+Pendientes:
+-Estudiar calculo integral.
+-Hacer tareas o Estudiar Informática II.
+
+Eliminadas
+-Hacer tareas o Estudiar Lectoescritura.
+-Estudiar inglés.
+-Clase de Inglés II.
+-Clase de informática.
+-Laboratorio de informática.
+-Ver clase de Inglés II.
+-Estudiar inglés.
