@@ -7,7 +7,7 @@ Lunes 27 de Febrero 2023.
 10-12: Cita y medicamentos de mi madre.
 12-13: Estudiar Calculo integral.
 13-14: Almorzar.
-14-16: Clase de Lectoescritura.
+14-16: **Inconveniente**
 16-18: Estudiar Angebra Lineal.
 18-20: Comer y organizar la cocina.
 20-21: Usar celular y Leer.
@@ -31,11 +31,11 @@ Martes 28 de Febrero 2023.
 Miércoles 1 de Marzo 2023.
 
 6-8: Bañarme, organizarme y desayunar.
-8-10: Clase de Inglés II.
-10-12: Estudiar Física mecánica.
+8-10: **Inconveniente**
+10-12: **Inconveniente**
 12-13: Mercar.
 13-14: Almorzar.
-14-16: Clase de Lectoescritura.
+14-16: **Inconveniente**
 16-18: Estudiar Calculo integral.
 18-20: Comer y organizar la cocina.
 20-21: Usar celular y Leer.
@@ -46,9 +46,9 @@ Jueves 2 de Marzo 2023.
 5-7: Bañarme, organizarme y desayunar.
 7-8: Llegando a la universidad.
 8-10: Clase de informática II.
-10-12: Parcial de Física Mecánica.
+10-12: Clase de Física Mecánica.
 12-14: Clase de Álgebra lineal.
-14-16: Parcial de Calculo integral.
+14-16: Clase de Calculo integral.
 16-17: Almorzar.
 17-18: Llegando a casa.
 18-19: Libre.
@@ -60,23 +60,23 @@ Viernes 3 de Marzo 2023.
 
 5-7: Bañarme, organizarme y desayunar.
 7-8: Llegando a la universidad.
-8-10: Estudiar Física Mecánica.
+8-10: **Inconveniente**
 10-13: Laboratorio de Informatica II.
 13-15: Almorzar y llegar a casa.
-15-17: Practicar freestyle.
-17-19: Estudiar Calculo integral.
+15-17: **Inconveniente**
+17-19: **Inconveniente**
 19-20: Comer.
-20-22: Practicar guitarra.
+20-22: **Inconveniente**
 22-23: Leer.
 23-8: Dormir.
 
 Sábado 4 de Marzo 2023.
 
 8-10: Bañarme, organizarme y desayunar.
-10-13: Hacer tareas o Estudiar Informática II.
+10-13: **Inconveniente**
 13-14: Almorzar.
-14-16: Estudiar Calculo integral.
-16-18: Estudiar Álgebra Lineal.
+14-16: **Inconveniente**
+16-18: **Inconveniente**
 18-19: Libre.
 19-20: Comer.
 20-21: Organizar la cocina.
@@ -87,10 +87,29 @@ Sábado 4 de Marzo 2023.
 Domingo 5 de Marzo 2023.
 
 8-10: Bañarme, organizarme y desayunar.
-10-13: Hacer tareas o Estudiar Lectoescritura.
+10-13: **Inconveniente**
 13-14: Almorzar.
 14-17: Organizar casa.
-17-19: Estudiar Informática.
+17-19: **Inconvenientes**
 19-20: Comer.
 20-21: Usar celular y Leer.
 21-6: Dormir.
+
+Pendientes
+
+-Estudiar Calculo integral.
+-Hacer tareas o estudiar informática.
+-Estudiar Física Mecánica.
+-Estudiar Física Mecánica.
+-Estudiar Calculo integral.
+-practicar guitarra.
+-Parcial física mecánica.
+-Parcial Calculo integral.
+
+Eliminadas
+
+-Clase de lectoesctitura.
+-Clase de inglés.
+-Practicar Freestyle.
+-Hacer tareas o Estudiar Lectoescritura.
+-Estudiar Informática.
