@@ -3,11 +3,11 @@ Semana 4
 Lunes 6 de Marzo 2023.
 
 6-8: Bañarme, organizarme y desayunar.
-8-10: Libre.
+8-10: Estudiar Calculo integral.
 10-12: Estudiar Informática II.
 12-13: Almorzar.
 13-16: Ir a odontología.
-16-17: Libre.
+16-17: Hacer tareas o estudiar informática.
 17-19: Ver clase de Lectoescritura.
 19-20: Comer.
 20-21: Usar celular y Leer.
@@ -19,24 +19,24 @@ Martes 7 de Marzo 2023.
 7-8: Llegando a la universidad.
 8-10: Clase de informática II.
 10-12: Clase de Física Mecánica.
-12-14: Clase de Álgebra lineal.
-14-16: Clase de Calculo integral.
+12-14: Estudiar Calculo integral.
+14-16: Parcial de Calculo integral.
 16-17: Almorzar.
-17-18: Llegando a casa.
-18-19: Libre.
-19-20: Comer.
+17-18: Llegando a practicar bals.
+18-19: Práctica de bals
+19-20: llegar a casa y comer.
 20-21: Usar celular y Leer.
 21-6: Dormir.
 
 Miércoles 8 de Marzo 2023.
 
 6-8: Bañarme, organizarme y desayunar.
-8-10: Clase de Inglés II.
+8-10: Estudiar Física Mecánica.
 10-12: Estudiar Álgebra lineal.
-12-13: Libre
+12-13: Practicar guitarra.
 13-14: Almorzar.
-14-16: Clase de Lectoescritura.
-16-18: Libre.
+14-16: Estudiar Física Mecánica.
+16-18: Estudiar Física Mecánica.
 18-20: Comer y organizar la cocina.
 20-21: Usar celular y Leer.
 21-5: Dormir.
@@ -46,7 +46,7 @@ Jueves 9 de Marzo 2023.
 5-7: Bañarme, organizarme y desayunar.
 7-8: Llegando a la universidad.
 8-10: Clase de informática II.
-10-12: Clase de Física Mecánica.
+10-12: Parcial de Física Mecánica.
 12-14: Clase de Álgebra lineal.
 14-16: Clase de Calculo integral.
 16-17: Almorzar.
